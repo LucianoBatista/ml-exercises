@@ -11,6 +11,10 @@ seaborn = "*"
 torch = "*"
 pandas = "*"
 transformers = "*"
+jupyterlab = "*"
+ruff-lsp = "*"
+catppuccin-jupyterlab = "*"
+jupyter-black = "*"
 
 [dev-packages]
 

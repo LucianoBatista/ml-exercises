@@ -1,15 +1,12 @@
 # Machine Learning Problems of Everyday
 
-The idea of this respository is to be a place where we can practice a lot of different problemas related to Data Science, in order to create proficiency during solving different kind of problems.
-
-The inspiration cames from a Rust:crab: CLI, called Rustling, that makes really easy to practice Rust basic concepts.
-
 For me, is very clear that we become really good on something if we practice and use with consistency. Otherwise, is very difficult to remember and apply with productivity.
 
-For now, this will not be a CLI, as I'll go navegating through this process, I'll be evaluating what works best to this kind of practice for the Data Science field, that is a lot broad than a scope of a language.
+This repo will be used as a place to answer questions from the Personal Q&A app. Besides that, I'm using also as a place to test/run codes from different tutorials from the internet.
 
-## The first version
+# The structure of this repo
 
-In this initial step, I'll be creating notebooks with those exercises regarding a specific topic and the solution needs to occur using just `.py` files.
-
-Here I'll be not prioritizing to fix theory concepts, I'm suposing that those concepts are well stabilish. Probably I'll be putting some concepts on those notebooks.
+- `data`: all databases I'll use.
+- `exercises`: the place to write code that answer those questions.
+- `notebooks`: running notebooks about a lot of different things.
+- `src`: running different codes, mostly to replicate tutorials.
